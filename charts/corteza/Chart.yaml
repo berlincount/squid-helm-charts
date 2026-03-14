@@ -1,7 +1,7 @@
 apiVersion: v2
 name: corteza
-version: "1.0.0"
-appVersion: "2023.9.7"
+version: "1.0.1"
+appVersion: "2024.9.6"
 home: https://github.com/cortezaproject/corteza
 description: |
   Low-code platform
